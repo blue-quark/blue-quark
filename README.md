@@ -6,7 +6,8 @@
 
 
 ## 🚀 About Me
-I'm a PhD researcher in biochemistry/structural biology using my experience in cryogenic electron microscopy image and video data processing to teach myself data science. AI is my passion.
+I'm a PhD researcher in biochemistry/structural biology using my experience in cryogenic electron microscopy (cryo-EM) image and video data processing to teach myself data science. I was introduced to coding during my Masters in Chemistry, when I learned python in my introductory and advanced bioinformatics courses. As a PhD researcher I spent two years working daily in the field of cryo-EM (a subsection of structural biology) where I used both image and video datasets (sometimes 5TB+) to calculate maps of large, dynamic proteins, which ultimately were used to build 3D models. In this job I worked daily doing scientific computing on Linux computing clusters and servers on large datasets, and was also responsible for system administration. My daily work regularly used RELION (a software for image/video processing), as well as Bash scripting, Vim and basic python programming to manipulate files of 100k+ rows. I was responsible for managing large datasets stored on a 128TB Linux server as well as backups. I am also an experienced used of numerous structural biology 3D modeling and visualization softwares, such as Coot, Chimera, ChimeraX, etc.
+
 
 
 ## 🔗 Links
