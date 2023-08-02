@@ -11,8 +11,8 @@ I'm a PhD researcher in biochemistry/structural biology with experience in cryog
 
 ## 👨‍🎓 Education
 
-    Masters in Chemistry
-    Bachelors in Chemistry and Biology
+Masters in Chemistry
+Bachelors in Chemistry and Biology
 
 ## 💼 Professional Experience
 
